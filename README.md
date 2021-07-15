@@ -82,3 +82,13 @@ export default () => (
 ```
 
 </details>
+
+
+Execução:
+
+Para realizar a criação do projeto executaremos o comando:
+
+npx create-next-app --example with-styled-components
+
+Em seguida será solicitado o nome do projeto e logo após os arquivos necessários serão baixados.
+
